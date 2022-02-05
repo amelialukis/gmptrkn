@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="gmptrkn",
-    version="0.0.1",
+    version="0.0.2",
     author="Amelia Lukis",
     author_email="amelialukis01@gmail.com",
     description="fetch the latest earthquake information from BMKG",
